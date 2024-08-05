@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LITH002
-- 👀 I’m interested in Python language
-- 🌱 I’m currently learning C++ and Python
+- Hey, It's Lithmi over here👋 
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning the related competencies
 - 📫 You can reach me through this account
 
 <!---
